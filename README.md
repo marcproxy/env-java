@@ -2,7 +2,9 @@
 
 Ce projet est une application JavaFX configurée avec Maven qui offre un environnement de développement complet et structuré.
 
-![JavaFX App](https://via.placeholder.com/600x300?text=Application+JavaFX)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-8A2BE2?style=flat&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
 
 ## ✨ Fonctionnalités
 
