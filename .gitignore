@@ -1,0 +1,40 @@
+# Fichier d'environnement
+.env
+
+# Fichiers compilés
+target/
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Fichiers de logs
+*.log
+
+# Dossiers et fichiers de l'IDE
+.idea/
+.settings/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings
+.factorypath
+
+# Fichiers temporaires
+*~
+*.swp
+*.swo
+
+# Rapports JaCoCo
+/jacoco/
+
+# Autres
+.DS_Store
